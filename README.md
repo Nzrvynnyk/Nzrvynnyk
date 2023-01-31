@@ -18,4 +18,4 @@ DevOps engineer from Ukraine.
 
 ## Contact
 - Email: vinnicnaz@gmail.com
-- LinkedIn:[](linkedin.com/in/nazarvynnyk/)
+- LinkedIn:[Nazr Vynnyk](linkedin.com/in/nazarvynnyk/)
