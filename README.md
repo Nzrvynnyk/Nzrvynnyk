@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-# Nazar Vynnyk
+## Nazar Vynnyk
 
 DevOps enginner from Ukraine.
 
@@ -9,6 +9,7 @@ DevOps enginner from Ukraine.
 - Docker 
 - Jenkins
 - Python
+- AWS
 
 ## Projects
 - Some task and courses https://github.com/Nzrvynnyk/devinter2021
