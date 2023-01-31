@@ -17,5 +17,5 @@ DevOps engineer from Ukraine.
 - OpenVpn generate: https://github.com/Nzrvynnyk/Download-Ovpn-Config
 
 ## Contact
-- Email: vinnicnaz@gmail.com
-- LinkedIn:[Nazr Vynnyk](linkedin.com/in/nazarvynnyk/)
+- Email:  vinnicnaz@gmail.com
+- LinkedIn: [Nazr Vynnyk](linkedin.com/in/nazarvynnyk/)
