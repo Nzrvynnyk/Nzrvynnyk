@@ -1,7 +1,9 @@
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 # Nazar Vynnyk
 
-DevOps enginner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+DevOps enginner from Ukraine.
 
 ## Skills
 - Docker 
