@@ -3,7 +3,7 @@
 </div>
 
 ## Nazar Vynnyk
-DevOps engineer from Ukraine.
+DevOps engineer.
 
 ## Skills
 - Docker 
